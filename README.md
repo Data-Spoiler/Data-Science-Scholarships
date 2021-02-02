@@ -61,5 +61,3 @@ List of scholarships available for data science masters, PhD and courses
 * The Data Science for Social Good Fellowship https://www.dssgfellowship.org/
 
 * data science PhD Projects, Programs & Scholarships in New Zealand https://www.findaphd.com/phds/new-zealand/?g0gb30&Keywords=data+science
-
-* 
